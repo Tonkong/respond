@@ -1,0 +1,2 @@
+让ie6/7/8支持css3的meidia query 
+自适应
